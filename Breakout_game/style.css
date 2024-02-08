@@ -1,0 +1,40 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.grid {
+    position: relative;
+    width: 560px;
+    height: 300px;
+    border: solid 1px black;
+}
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+}
+
+.block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
