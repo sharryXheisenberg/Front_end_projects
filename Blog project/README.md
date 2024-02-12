@@ -1,4 +1,4 @@
-# Project Name
+# NewsFlash
 
 ## Description
 This project is a frontend blog website created using HTML, CSS, JavaScript, and Swiper.js. It features a modern design with smooth navigation and responsive layout.
