@@ -1,5 +1,7 @@
 # NewsFlash
 
+![Project output](https://github.com/sharryXheisenberg/Front_end_projects/blob/main/Blog%20project/news_flash_blog_project_op.png)
+
 ## Description
 This project is a frontend blog website created using HTML, CSS, JavaScript, and Swiper.js. It features a modern design with smooth navigation and responsive layout.
 
