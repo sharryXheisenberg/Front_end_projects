@@ -1,5 +1,7 @@
 # NewsFlash
 
+[![LinkedIn Video](https://img.shields.io/badge/Watch%20Video-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/saurabh-pande-8a9b7026a_frontenddevelopment-webdevelopment-newsflash-activity-7162520586819125248-ley6?utm_source=share&utm_medium=member_desktop)
+
 ![Project output](https://github.com/sharryXheisenberg/Front_end_projects/blob/main/Blog%20project/news_flash_blog_project_op.png)
 
 ## Description
